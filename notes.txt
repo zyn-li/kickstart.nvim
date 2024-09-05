@@ -1,0 +1,3 @@
+installed nerdfont with brew 
+https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#option-2-homebrew-fonts
+brew install font-hack-nerd-font
