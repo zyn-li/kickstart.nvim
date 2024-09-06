@@ -193,6 +193,11 @@ return {
             },
           },
         },
+        pylsp = {
+          settings = {
+            pylsp = {},
+          },
+        },
       }
 
       -- Ensure the servers and tools above are installed
